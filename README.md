@@ -1,5 +1,5 @@
 # Exemplary-Code-Chunk
-## Code for formatted regression table
+## Code for formatted regression table showing the impact of selected variables on survey respondents' feelings towards Germany
 
 	modelsummary(model_final3, fmt = fmt_significant(2),                    
 	gof_map = 'nobs', statistic = NULL,             
